@@ -1,1 +1,1 @@
-console.log('feature 2 Updated')
+console.log('Added feature2 by Salem')
