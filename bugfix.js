@@ -1,1 +1,1 @@
-console.log('bug fix')
+console.log('Conclict branch fixed the bug')
